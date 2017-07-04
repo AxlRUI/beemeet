@@ -67,20 +67,10 @@ html {
   background: linear-gradient(45deg, #ffb54f 0%, #ffe3b6 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb54f', endColorstr='#ffe3b6', GradientType=1 ); }
 
-.contenido {
-  display: flex;
-  display: -webkit-flex;
-  align-items: center;
-  -webkit-align-items: center;
-  justify-content: center;
-  -webkit-justify-content: center; }
-
 .contendor {
   display: flex;
   display: -webkit-flex;
   margin: 0 auto;
-  flex-direction: row;
-  background: white;
-  color: black; }
+  flex-direction: row; }
 
 /*# sourceMappingURL=style.css.map */
