@@ -76,12 +76,10 @@ html {
     display: -webkit-flex;
     flex-direction: row;
     color: #fff;
-    background-color: #000; }
+    background-color: #000;
+    justify-content: center;
+    align-items: center; }
     .contenido .contendor div {
-      display: flex;
-      display: -webkit-flex;
-      flex-direction: row;
-      color: #fff;
-      background-color: #000; }
+      width: 50%; }
 
 /*# sourceMappingURL=style.css.map */
