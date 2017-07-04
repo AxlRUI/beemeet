@@ -6,8 +6,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link href="https://fonts.googleapis.com/css?family=ABeeZee|Courgette" rel="stylesheet">
 </head>
-<body>
-	<div class="fondo1"></div>
+<body class="fondo1">
 	<section class="contenido">
 		<section class="contenedor">
 			<div>
