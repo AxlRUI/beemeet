@@ -66,10 +66,9 @@ html {
   color: white; }
 
 .contenido {
-  display: flex;
-  display: -webkit-flex;
-  justify-content: center;
-  align-items: center; }
+  position: absolute;
+  margin: 0 auto;
+  display: block; }
   .contenido .contendor {
     display: flex;
     display: -webkit-flex;
