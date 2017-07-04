@@ -64,12 +64,20 @@ html {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb54f', endColorstr='#ffe3b6', GradientType=1 );
   color: white; }
 
-.contenido .contenedor {
+.contenido {
   display: flex;
-  flex-direction: row;
-  width: 400px;
-  height: 300px; }
-  .contenido .contenedor div {
-    width: 50%; }
+  width: 100%;
+  height: 100%; }
+  .contenido .contenedor {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 300px;
+    background: #000;
+    color: #fff;
+    justify-content: center;
+    align-items: center; }
+    .contenido .contenedor div {
+      width: 50%; }
 
 /*# sourceMappingURL=style.css.map */

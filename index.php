@@ -12,12 +12,11 @@
 	<section class="contenido">
 		<section class="contenedor">
 			<div>
-				<!--h1 class="honey cita">BeeMeet</h1>
-				<h3>Es una aplicación de organización orientada a proyectos y trabajos en equipo. Puedes hacer una cuenta de manera totalmente gratuita</h3-->
-				1
+				<h1 class="honey cita">BeeMeet</h1>
+				<h3>Es una aplicación de organización orientada a proyectos y trabajos en equipo. Puedes hacer una cuenta de manera totalmente gratuita</h3>
 			</div>
 			<div>
-				<!--form action="">
+				<form action="">
 					<div>
 						<label for="user">Usuario</label>
 						<input type="text" name="user" required="">
@@ -26,8 +25,7 @@
 						<label for="pass">Contraseña</label>
 						<input type="password" name="pass" required="">
 					</div>
-				</form-->
-				2
+				</form>
 			</div>
 		</section>
 	</section>
