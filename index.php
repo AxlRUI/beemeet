@@ -4,11 +4,12 @@
 	<meta charset="UTF-8">
 	<title>Bienvenido a BeeMeet</title>
 	<link rel="stylesheet" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=ABeeZee|Courgette" rel="stylesheet">
 </head>
 <body>
 	<div class="fondo1"></div>
 	<section class="contenido">
-		<section class="contenedor">
+		<section class="contenedor honey">
 			<div>
 				<h1>BeeMeet</h1>
 				<h3>Es una aplicación de organización orientada a proyectos y trabajos en equipo. Puedes hacer una cuenta de manera totalmente gratuita</h3>
