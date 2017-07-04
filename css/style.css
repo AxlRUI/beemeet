@@ -71,13 +71,12 @@ html {
   display: -webkit-flex;
   justify-content: center;
   align-items: center; }
-
-.contendor {
-  display: flex;
-  display: -webkit-flex;
-  margin: 0 auto;
-  flex-direction: row;
-  color: black;
-  background: white; }
+  .contenido .contendor {
+    display: flex;
+    display: -webkit-flex;
+    margin: 0 auto;
+    flex-direction: row;
+    color: black;
+    background: white; }
 
 /*# sourceMappingURL=style.css.map */
