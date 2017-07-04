@@ -74,9 +74,14 @@ html {
   .contenido .contendor {
     display: flex;
     display: -webkit-flex;
-    margin: 0 auto;
     flex-direction: row;
     color: #fff;
     background-color: #000; }
+    .contenido .contendor div {
+      display: flex;
+      display: -webkit-flex;
+      flex-direction: row;
+      color: #fff;
+      background-color: #000; }
 
 /*# sourceMappingURL=style.css.map */
