@@ -5,6 +5,10 @@
 	<title>Bienvenido a BeeMeet</title>
 </head>
 <body>
-	Prueba
+	<section class="contenido">
+		<section class="contenedor">
+			
+		</section>
+	</section>
 </body>
 </html>
