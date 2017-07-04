@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Bienvenido a BeeMeet</title>
+	<title>Document</title>
 </head>
 <body>
-	Prueba
+	ok
 </body>
 </html>
