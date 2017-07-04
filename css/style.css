@@ -46,6 +46,12 @@ html {
 .cita {
   font-family: "Courgette", cursive; }
 
+body {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center; }
+
 .fondo1 {
   display: block;
   position: fixed;
@@ -77,6 +83,6 @@ html {
     margin: 0 auto;
     flex-direction: row;
     color: #fff;
-    background: #000; }
+    background-color: #000; }
 
 /*# sourceMappingURL=style.css.map */
