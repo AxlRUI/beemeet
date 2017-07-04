@@ -5,6 +5,7 @@
 	<title>Bienvenido a BeeMeet</title>
 </head>
 <body>
+	<div class="fondo1"></div>
 	<section class="contenido">
 		<section class="contenedor">
 			<div>
