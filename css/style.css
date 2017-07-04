@@ -50,7 +50,6 @@ html {
 .fondo1 {
   display: block;
   position: fixed;
-  background-image: url("http://beemeet.azurewebsites.net/otros/organizar.jpeg");
   background: #FFEDCF;
   z-index: -1;
   background-size: 100%;
