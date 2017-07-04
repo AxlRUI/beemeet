@@ -10,9 +10,9 @@
 </head>
 <body class="fondo1">
 	<section class="contenido">
-		<section class="contenedor">
+		<section class="contenedor honey">
 			<div>
-				<h1 class="honey cita">BeeMeet</h1>
+				<h1 class="cita">BeeMeet</h1>
 				<h3>Es una aplicación de organización orientada a proyectos y trabajos en equipo. Puedes hacer una cuenta de manera totalmente gratuita</h3>
 			</div>
 			<div>
