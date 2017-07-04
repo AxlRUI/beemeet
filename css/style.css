@@ -41,7 +41,8 @@ table {
   border-spacing: 0; }
 
 html {
-  font-family: "ABeeZee", sans-serif; }
+  font-family: "ABeeZee", sans-serif;
+  color: white; }
 
 .cita {
   font-family: "Courgette", cursive; }
@@ -50,6 +51,7 @@ html {
   display: block;
   position: fixed;
   background-image: url("http://beemeet.azurewebsites.net/otros/organizar.jpeg");
+  background: #FFEDCF;
   z-index: -1;
   background-size: 100%;
   width: 100%;
@@ -64,5 +66,11 @@ html {
   background: -ms-linear-gradient(45deg, #ffb54f 0%, #ffe3b6 100%);
   background: linear-gradient(45deg, #ffb54f 0%, #ffe3b6 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb54f', endColorstr='#ffe3b6', GradientType=1 ); }
+
+.contendor {
+  display: flex;
+  display: -webkit-flex;
+  margin: 0 auto;
+  flex-direction: row; }
 
 /*# sourceMappingURL=style.css.map */
