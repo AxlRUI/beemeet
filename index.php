@@ -11,7 +11,7 @@
 	<section class="contenido">
 		<section class="contenedor">
 			<div>
-				<h1>BeeMeet</h1>
+				<h1 class="honey">BeeMeet</h1>
 				<h3>Es una aplicación de organización orientada a proyectos y trabajos en equipo. Puedes hacer una cuenta de manera totalmente gratuita</h3>
 			</div>
 			<div>
