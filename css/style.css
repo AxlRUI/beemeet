@@ -66,9 +66,17 @@ html {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb54f', endColorstr='#ffe3b6', GradientType=1 );
   color: white; }
 
-.contenido .contendor {
-  margin: 0 auto;
-  color: black;
-  background: white; }
+.contenido {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center; }
+  .contenido .contendor {
+    display: flex;
+    display: -webkit-flex;
+    margin: 0 auto;
+    flex-direction: row;
+    color: #fff;
+    background: #000; }
 
 /*# sourceMappingURL=style.css.map */
